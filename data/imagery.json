@@ -1,0 +1,18 @@
+[
+  {"key":"月","category":"天象","description":"月色常寄乡思、离情与清夜独酌，也照见诗人眼中的山河。","aliases":["月","明月","婵娟","桂魄"],"exclusions":["岁月","年月","月余","月来"]},
+  {"key":"酒","category":"人间","description":"酒入诗中，既可助兴送别，也能慰藉孤怀、酬答知音。","aliases":["酒","杜康"],"exclusions":[]},
+  {"key":"山","category":"山水","description":"山是远望的轮廓，也是登临、隐逸与行旅的所在。","aliases":["山","青山","峰","岭"],"exclusions":["江山","山河","山川"]},
+  {"key":"水","category":"山水","description":"江河湖溪流转不息，承载行旅、相思与时间之感。","aliases":["水","江","河","湖","溪","泉"],"exclusions":["江山","山河","水调","河汉"]},
+  {"key":"风","category":"天象","description":"风吹动四时草木，也把送别与故园消息带入诗行。","aliases":["风"],"exclusions":["风流","风骨","风采","风俗","风华"]},
+  {"key":"雨","category":"天象","description":"雨声连接春景、归思与旅途，浓淡之间自有诗意。","aliases":["雨"],"exclusions":[]},
+  {"key":"花","category":"草木","description":"花开花落映照节序和人事，诗中常借它写盛衰与相逢。","aliases":["花","梅花","桃花","菊花","莲花"],"exclusions":["花甲"]},
+  {"key":"雪","category":"天象","description":"雪令山川澄明，也成为寒意、壮怀与孤高的背景。","aliases":["雪"],"exclusions":["雪耻","未雪"]},
+  {"key":"秋","category":"时序","description":"秋意常在高天、落叶与雁声间浮现，映照岁序与归心。","aliases":["秋"],"exclusions":["千秋","春秋","秋千"]},
+  {"key":"柳","category":"草木","description":"柳色连着春日与渡口，折柳之意常伴离别。","aliases":["柳","杨柳","垂柳"],"exclusions":[]},
+  {"key":"雁","category":"生灵","description":"雁随季节迁徙，在诗中牵引远方、书信与乡愁。","aliases":["雁","鸿雁"],"exclusions":[]},
+  {"key":"舟","category":"人间","description":"一叶舟船载着行旅与归梦，穿行于江湖烟波之间。","aliases":["舟","船","舫"],"exclusions":[]},
+  {"key":"星","category":"天象","description":"星辰与夜色相伴，在浩渺天空中映出人间的凝望。","aliases":["星","星河"],"exclusions":[]},
+  {"key":"云","category":"天象","description":"云的聚散和飘移，常为远游、山居与思念作景。","aliases":["云","白云"],"exclusions":[]},
+  {"key":"日","category":"天象","description":"日出日落标记时光，也为山水与行旅带来明暗层次。","aliases":["日","朝阳","夕阳"],"exclusions":["今日","明日","昨日","来日","终日","日夜","平日","日暮"]},
+  {"key":"春","category":"时序","description":"春景唤醒花木与故园，常写欣悦，也写易逝。","aliases":["春"],"exclusions":["春秋"]}
+]
